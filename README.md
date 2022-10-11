@@ -7,5 +7,16 @@ Sempre que um staffer, não vinculado com o discord, entrar no servidor, ele rec
 
 Ao digitar o comando `/staffvincular <discordid`, o BOT do discord enviará essa mensagem:
 ![](https://i.imgur.com/RnftCIT.png)
+
 ![](https://i.imgur.com/hiCZHMy.png)
+
 ![](https://i.imgur.com/9yU95hs.png)
+
+# Sistema de login
+Quando um staffer vinculado entrar no servidor, o sistema de stafflogin já vai estar funcionando.
+
+![](https://i.imgur.com/CTz5GDe.png)
+
+![](https://i.imgur.com/6PCZw00.png)
+
+![](https://i.imgur.com/WB7FzCJ.png)
