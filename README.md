@@ -1,6 +1,9 @@
 # LKStaffLogin - Review
 Aumente a segurança do seu servidor, solicitando sempre um código de login quando um staffer entrar no servidor. (Via discord)
 
+# Vídeo de demonstração
+[Clique aqui para ver o vídeo](https://www.youtube.com/watch?v=0xa_PwSpksk)
+
 # Sistema de vinculação
 Sempre que um staffer, não vinculado com o discord, entrar no servidor, ele receberá a seguinte mensagem:
 ![](https://i.imgur.com/WTGK2uP.png)
