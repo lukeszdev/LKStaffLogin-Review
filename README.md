@@ -20,3 +20,9 @@ Quando um staffer vinculado entrar no servidor, o sistema de stafflogin já vai 
 ![](https://i.imgur.com/6PCZw00.png)
 
 ![](https://i.imgur.com/WB7FzCJ.png)
+
+# Comandos
+![](https://i.imgur.com/ci8RJmx.png)
+
+# Menu de staffers vinculados
+![](https://i.imgur.com/uDE360c.png)
